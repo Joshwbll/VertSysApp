@@ -3,4 +3,5 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="string_willkommen_zur_sportapp">\@string/Willkommen zur Sportapp</string>
 </resources>

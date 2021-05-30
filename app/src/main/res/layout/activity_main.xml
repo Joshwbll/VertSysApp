@@ -33,12 +33,4 @@
         app:layout_constraintVertical_bias="0.0"
         app:navGraph="@navigation/mobile_navigation" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="192dp"
-        android:layout_height="112dp"
-        android:text="Ich bin ein Knopf"
-        tools:layout_editor_absoluteX="109dp"
-        tools:layout_editor_absoluteY="219dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
