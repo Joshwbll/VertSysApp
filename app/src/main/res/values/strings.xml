@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">VertSysApp</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_touren">Touren</string>
+    <string name="title_profil">Profil</string>
     <string name="string_willkommen_zur_sportapp">\@string/Willkommen zur Sportapp</string>
 </resources>
